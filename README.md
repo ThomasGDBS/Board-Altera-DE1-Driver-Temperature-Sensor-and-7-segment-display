@@ -10,4 +10,4 @@ Then, a part will be dedicated to the management of the link between thestate ma
 
 We will then discuss the use of the seven-segment readers incorporated inour FPGA board. We will take a particular interest in the format used, inparticular with a BCD algorithm.
 
-Finally, we will build a global application described as follows: A tempera-ture sensor displaying its results on the seven-segment readers of an AlteraDE1 board
+Finally, we will build a global application described as follows: A temperature sensor displaying its results on the seven-segment readers of an AlteraDE1 board
